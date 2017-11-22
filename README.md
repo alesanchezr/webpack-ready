@@ -19,6 +19,12 @@ You are ready to go!
 
 ## How to continue?
 
+Every time you want to transpile again (create a bundle) you have to do
+
+```
+$ npm run transpile-dev
+```
+
 The application flow starts at **app.js**, you have to import any other files or assets into app in order for webpack to include them in the bundle.
 
 For example, inside app.js you can do:
