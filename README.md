@@ -41,6 +41,8 @@ bundle.js  2.52 kB       0  [emitted]  main
    [0] ./src/app.js 51 bytes {0} [built]
 ```
 
+### NOTE: You have to re-bundle every time yo update your JS or CSS/SASS files.
+
 You are ready to go! You can commit & push to your new repository whenever you want.
 
 ## How to continue?
